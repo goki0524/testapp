@@ -1,8 +1,7 @@
 development:
   dialect: postgres
   database: testapp_development
-  user: postgres
-  password: postgres
+  user: goki
   host: 127.0.0.1
   pool: 5
 
